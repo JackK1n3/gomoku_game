@@ -1,6 +1,6 @@
 # ♟️ Gomoku Game (Five in a Row)
 
-This is a simple terminal-based Gomoku (五子棋) game for two players.
+This is a simple terminal-based Gomoku game for two players.
 
 ## How to Play
 
